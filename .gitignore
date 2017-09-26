@@ -1,0 +1,15 @@
+*.mymetadata
+*.checkstyle
+*.classpath
+*.project
+*.class
+*.idea
+*.iml
+*.pydevproject 
+*.pyc 
+.externalToolBuilders/*
+/target/*
+/src/main/webapp/WEB-INF/classes/*
+/target/
+/build/
+/bin/
